@@ -36,10 +36,10 @@
 
             display-name = "Lower";
             bindings = <
-&kp TAB    &kp N1                &kp N2    &kp N3         &kp N4     &kp N5       &kp N6    &kp N7    &kp N8    &kp N9     &kp N0             &kp BSPC
-&kp LCTRL  &kp RA(Q)             &kp HOME  &kp PAGE_DOWN  &kp PG_UP  &kp END      &kp LEFT  &kp DOWN  &kp UP    &kp RIGHT  &kp C_VOL_UP       &kp DELETE
-&kp LSHFT  &kp NON_US_BACKSLASH  &trans    &trans         &trans     &trans       &trans    &trans    &trans    &trans     &kp C_VOLUME_DOWN  &kp CAPSLOCK
-                                           &kp LGUI       &trans     &kp SPACE    &kp RET   &trans    &kp RALT
+&kp TAB    &kp N1                &kp N2    &kp N3         &kp N4     &kp N5       &kp N6       &kp N7    &kp N8    &kp N9     &kp N0             &kp BSPC
+&kp LCTRL  &kp RA(Q)             &kp HOME  &kp PAGE_DOWN  &kp PG_UP  &kp END      &kp LEFT     &kp DOWN  &kp UP    &kp RIGHT  &kp C_VOL_UP       &kp DELETE
+&kp LSHFT  &kp NON_US_BACKSLASH  &trans    &trans         &trans     &trans       &kp LS(F10)  &trans    &trans    &trans     &kp C_VOLUME_DOWN  &kp CAPSLOCK
+                                           &kp LGUI       &trans     &kp SPACE    &kp RET      &trans    &kp RALT
             >;
         };
 
